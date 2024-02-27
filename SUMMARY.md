@@ -18,6 +18,7 @@
   * [Concurrency control](database/15\_concurrency\_control\_1.md)
   * [B tree](database/Btree\_index.md)
   * [Selectivity](database/selectivity.md)
+  * [CASE, WHEN, THEN](database/100_sql_case.md)
 * [OS](os/README.md)
   * [Block/Non-Block](cs/os/block-non-block.md)
   * [Synchronous/Asynchronous](os/2\_asynchronous.md)
