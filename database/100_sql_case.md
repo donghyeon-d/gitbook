@@ -1,6 +1,7 @@
-# CASE 식
+# 정의
 - SELECT 할 때, 어떤 값들을 다른 값으로 매핑하고 싶을 때 사용함. 예를 들어, DB에는 enum의 숫자로 저장했는데 SELECT 할 때 문자열로 갖고 오고 싶을 때 사용함
-- 예제
+
+# 사용 예시
 ```sql
 SELECT user_id, 
     CASE
