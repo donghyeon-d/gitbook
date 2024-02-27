@@ -19,6 +19,7 @@
   * [B tree](database/Btree\_index.md)
   * [Selectivity](database/selectivity.md)
   * [CASE, WHEN, THEN](database/100_sql_case.md)
+  * [String Parse](database/101_string_parse.md)
 * [OS](os/README.md)
   * [Block/Non-Block](cs/os/block-non-block.md)
   * [Synchronous/Asynchronous](os/2\_asynchronous.md)
