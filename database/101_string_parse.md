@@ -41,3 +41,14 @@
     SELECT SUBSTRING_INDEX("www.dongchoi.com", '.', -2);
     -- 결과 : dongchoi.com
     ```
+
+# 문자열 연결
+## 문자열 연결 함수
+- CONCAT, ||
+- 두개의 문자열을 연결해줌
+- 사용 예시
+    ```sql
+    SELECT CONCAT("dong", "choi");
+    -- 결과 : dongchoi
+    ```
+- CONCAT의 인자는 2개 이상 들어갈 수 있고, 단어간 구분자 없이 이저줌
